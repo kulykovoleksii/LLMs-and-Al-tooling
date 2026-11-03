@@ -1,0 +1,26 @@
+{"id":"k01","input":"What is a context window?","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k02","input":"Explain how a language model uses tokens.","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k03","input":"How does retrieval-augmented generation work?","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k04","input":"Tell me about model evaluation.","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k05","input":"Where can I find the project setup guide?","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k06","input":"Summarize the document's main points.","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k07","input":"Що таке векторна база даних?","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k08","input":"Поясни різницю між агентом і звичайним workflow.","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k09","input":"Як працює пошук за embeddings?","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k10","input":"Розкажи про оцінювання якості LLM.","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k11","input":"Де знайти інструкцію з налаштування?","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"k12","input":"Підсумуй цей текст.","expected_intent":"knowledge_query","needs_clarification":false}
+{"id":"d01","input":"Draft a short email asking to reschedule the meeting.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d02","input":"Write an email thanking the team for their help.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d03","input":"Compose a polite reply to this invitation.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d04","input":"Create a draft announcing the project demo.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d05","input":"Please write a brief meeting reminder.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d06","input":"Напиши короткий лист із подякою.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d07","input":"Створи чернетку оголошення про зустріч.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d08","input":"Підготуй лист із проханням перенести дзвінок.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d09","input":"Склади повідомлення команді про дедлайн.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"d10","input":"Сформулюй ввічливу відповідь на запрошення.","expected_intent":"draft_request","needs_clarification":false}
+{"id":"u01","input":"Can you help me with this?","expected_intent":"unclear","needs_clarification":true}
+{"id":"u02","input":"Напиши","expected_intent":"unclear","needs_clarification":true}
+{"id":"u03","input":"Explain this and draft a reply.","expected_intent":"unclear","needs_clarification":true}
+{"id":"u04","input":"asdf qwerty","expected_intent":"unclear","needs_clarification":true}
